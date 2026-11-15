@@ -33,7 +33,7 @@ here i used type() for find the which type of values does each and every variabl
 """
 
 # 2)
- metadata={"source ":"customer_api"
+metadata={"source ":"customer_api"
 ,"record_count":2500
 ,"file_size_mb":45.6
 ,"is_processed":False}
